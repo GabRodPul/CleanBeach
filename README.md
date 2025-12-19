@@ -6,7 +6,9 @@
 
 
 ## About this project
-
+> [!NOTE]  
+> This project was forked from [SergioManuelJob/CleanBeach-Project](https://github.com/SergioManuelJob/CleanBeach-Project) with the sole purpose of making it easier for me and others to find it in my profile.
+> It wouldn't have been completed without the work of all team members, so please make sure to check commits to get a general idea of what each of us did.
 <br/>
 
 This project is about recycling and maintaining beaches clean, and is all about beaches and volunteering.
